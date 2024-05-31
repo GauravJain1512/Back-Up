@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: DJ
+Build-Jdk: 17.0.2
+Implementation-Title: frescoCourses
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: springBoot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/frescoCourses/
+Created-By: Maven Integration for Eclipse
+

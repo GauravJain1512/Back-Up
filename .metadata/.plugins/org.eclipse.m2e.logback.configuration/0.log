@@ -1,0 +1,1519 @@
+2022-11-26 08:55:33,834 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-26 08:58:04,605 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.blog.api:blog-app-apis:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\pom.xml.
+2022-11-26 08:58:41,020 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blog-app-apis/src/main/java
+2022-11-26 08:58:41,021 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blog-app-apis/src/main/resources
+2022-11-26 08:58:41,088 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /blog-app-apis/src/main/resources
+2022-11-26 08:58:41,089 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /blog-app-apis/src/test/java
+2022-11-26 08:58:42,356 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 55 sec
+2022-11-26 08:58:48,231 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 08:58:48,231 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 08:58:48,250 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-11-26 08:58:48,400 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 08:58:48,403 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 08:58:48,403 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 08:58:48,403 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\src\test\resources
+2022-11-26 09:00:28,825 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.dev:bootdevtool:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootdevtool\pom.xml.
+2022-11-26 09:00:32,280 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootdevtool/src/main/java
+2022-11-26 09:00:32,280 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootdevtool/src/main/resources
+2022-11-26 09:00:32,280 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootdevtool/src/main/resources
+2022-11-26 09:00:32,281 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootdevtool/src/test/java
+2022-11-26 09:00:32,448 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-11-26 09:00:33,379 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:00:33,379 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:00:33,379 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:00:33,381 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:00:33,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:00:33,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:00:33,384 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootdevtool\src\test\resources
+2022-11-26 09:00:46,246 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa.test:bootjpaexample:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootjpaexample\pom.xml.
+2022-11-26 09:00:47,709 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootjpaexample/src/main/java
+2022-11-26 09:00:47,709 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootjpaexample/src/main/resources
+2022-11-26 09:00:47,709 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootjpaexample/src/main/resources
+2022-11-26 09:00:47,710 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootjpaexample/src/test/java
+2022-11-26 09:00:47,938 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-11-26 09:00:48,837 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:00:48,838 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:00:48,839 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:00:48,842 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:00:48,845 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:00:48,845 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:00:48,845 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootjpaexample\src\test\resources
+2022-11-26 09:01:00,806 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api.book:bootrestbook:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootrestbook\pom.xml.
+2022-11-26 09:01:01,168 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootrestbook/src/main/java
+2022-11-26 09:01:01,168 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootrestbook/src/main/resources
+2022-11-26 09:01:01,169 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootrestbook/src/main/resources
+2022-11-26 09:01:01,169 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootrestbook/src/test/java
+2022-11-26 09:01:01,394 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:01:02,448 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:02,448 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:02,448 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:01:02,450 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:01:02,473 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:02,474 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:02,474 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootrestbook\src\test\resources
+2022-11-26 09:01:23,541 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.email.api:email_api:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\pom.xml.
+2022-11-26 09:01:25,570 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /email_api/src/main/java
+2022-11-26 09:01:25,570 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /email_api/src/test/java
+2022-11-26 09:01:25,596 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2022-11-26 09:01:25,872 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:25,873 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\main\resources
+2022-11-26 09:01:25,874 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:25,874 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\test\resources
+2022-11-26 09:01:31,112 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.email:emailapi:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\pom.xml.
+2022-11-26 09:01:31,417 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emailapi/src/main/java
+2022-11-26 09:01:31,418 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /emailapi/src/main/resources
+2022-11-26 09:01:31,418 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /emailapi/src/main/resources
+2022-11-26 09:01:31,419 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emailapi/src/test/java
+2022-11-26 09:01:31,578 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:01:32,291 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:32,292 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:32,292 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:01:32,294 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:01:32,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:32,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:32,297 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\src\test\resources
+2022-11-26 09:01:49,211 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sts:firstproject:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\firstproject\pom.xml.
+2022-11-26 09:01:49,613 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstproject/src/main/java
+2022-11-26 09:01:49,613 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstproject/src/main/resources
+2022-11-26 09:01:49,613 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /firstproject/src/main/resources
+2022-11-26 09:01:49,614 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /firstproject/src/test/java
+2022-11-26 09:01:49,732 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:01:50,249 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:50,250 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:50,250 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:01:50,252 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:01:50,254 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:01:50,254 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:01:50,254 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\firstproject\src\test\resources
+2022-11-26 09:02:10,287 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springBoot:frescoCourses:0.1.0 @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\pom.xml.
+2022-11-26 09:02:20,278 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /frescoCourses/src/main/java
+2022-11-26 09:02:20,279 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /frescoCourses/src/test/java
+2022-11-26 09:02:20,369 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2022-11-26 09:02:20,741 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:20,741 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2022-11-26 09:02:20,741 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2022-11-26 09:02:20,743 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:20,743 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\test\resources
+2022-11-26 09:02:30,445 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.h2.data:h2dataandschema:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2dataandschema\pom.xml.
+2022-11-26 09:02:39,902 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /h2dataandschema/src/main/java
+2022-11-26 09:02:39,902 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /h2dataandschema/src/main/resources
+2022-11-26 09:02:39,902 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /h2dataandschema/src/main/resources
+2022-11-26 09:02:39,902 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /h2dataandschema/src/test/java
+2022-11-26 09:02:40,052 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2022-11-26 09:02:40,940 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:40,940 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:02:40,941 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:02:40,942 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-26 09:02:41,022 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:41,022 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:02:41,022 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2dataandschema\src\test\resources
+2022-11-26 09:02:43,071 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.h2:h2database:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2database\pom.xml.
+2022-11-26 09:02:43,522 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /h2database/src/main/java
+2022-11-26 09:02:43,522 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /h2database/src/main/resources
+2022-11-26 09:02:43,522 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /h2database/src/main/resources
+2022-11-26 09:02:43,522 [Worker-16: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /h2database/src/test/java
+2022-11-26 09:02:43,732 [Worker-16: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:02:44,682 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:44,682 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:02:44,682 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:02:44,684 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:02:44,690 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:02:44,691 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:02:44,691 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2database\src\test\resources
+2022-11-26 09:02:59,264 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jwt:jwtauthentication:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\jwtauthentication\pom.xml.
+2022-11-26 09:03:00,115 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtauthentication/src/main/java
+2022-11-26 09:03:00,116 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtauthentication/src/main/resources
+2022-11-26 09:03:00,116 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtauthentication/src/main/resources
+2022-11-26 09:03:00,116 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtauthentication/src/test/java
+2022-11-26 09:03:00,252 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-11-26 09:03:01,154 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:01,154 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:01,154 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:03:01,155 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:03:01,158 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:01,158 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:01,158 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\jwtauthentication\src\test\resources
+2022-11-26 09:03:17,291 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:myappvs:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\myappvs\pom.xml.
+2022-11-26 09:03:17,597 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myappvs/src/main/java
+2022-11-26 09:03:17,597 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myappvs/src/main/resources
+2022-11-26 09:03:17,605 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myappvs/src/main/resources
+2022-11-26 09:03:17,613 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myappvs/src/test/java
+2022-11-26 09:03:17,826 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:03:18,448 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:18,448 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:18,448 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:03:18,449 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:03:18,451 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:18,451 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:18,451 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\myappvs\src\test\resources
+2022-11-26 09:03:39,077 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.smart:smartcontactmanager:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\smartcontactmanager\pom.xml.
+2022-11-26 09:03:40,505 [Worker-14: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:03:43,024 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smartcontactmanager/src/main/java
+2022-11-26 09:03:43,025 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /smartcontactmanager/src/main/resources
+2022-11-26 09:03:43,025 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /smartcontactmanager/src/main/resources
+2022-11-26 09:03:43,026 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smartcontactmanager/src/test/java
+2022-11-26 09:03:43,253 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-11-26 09:03:45,502 [Worker-12: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:03:45,626 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:45,627 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:45,627 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:03:45,630 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2022-11-26 09:03:45,864 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:45,865 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:45,865 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\smartcontactmanager\src\test\resources
+2022-11-26 09:03:55,419 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.h2:springbootjpah2:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootjpah2\pom.xml.
+2022-11-26 09:03:56,600 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootjpah2/src/main/java
+2022-11-26 09:03:56,601 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootjpah2/src/main/resources
+2022-11-26 09:03:56,601 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootjpah2/src/main/resources
+2022-11-26 09:03:56,601 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootjpah2/src/test/java
+2022-11-26 09:03:56,813 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-11-26 09:03:57,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:57,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:57,383 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:03:57,385 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:03:57,395 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:03:57,396 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:03:57,396 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootjpah2\src\test\resources
+2022-11-26 09:04:11,104 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.onlyjavatech:springbootproject:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootproject\pom.xml.
+2022-11-26 09:04:11,423 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootproject/src/main/java
+2022-11-26 09:04:11,424 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootproject/src/main/resources
+2022-11-26 09:04:11,424 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootproject/src/main/resources
+2022-11-26 09:04:11,424 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootproject/src/test/java
+2022-11-26 09:04:11,573 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:04:12,187 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:12,187 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:12,187 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:04:12,189 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:04:12,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:12,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:12,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootproject\src\test\resources
+2022-11-26 09:04:27,069 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springsecurity:spring-boot-security:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\spring-boot-security\pom.xml.
+2022-11-26 09:04:27,344 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-security/src/main/java
+2022-11-26 09:04:27,345 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-security/src/main/resources
+2022-11-26 09:04:27,345 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-security/src/main/resources
+2022-11-26 09:04:27,346 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-security/src/test/java
+2022-11-26 09:04:27,559 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:04:28,324 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:28,324 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:28,325 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:04:28,326 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:04:28,331 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:28,331 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:28,331 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\spring-boot-security\src\test\resources
+2022-11-26 09:04:54,319 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dailycodebuffer.email:Spring-email-client:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\Spring-email-client\pom.xml.
+2022-11-26 09:04:56,315 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-email-client/src/main/java
+2022-11-26 09:04:56,316 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring-email-client/src/main/resources
+2022-11-26 09:04:56,316 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Spring-email-client/src/main/resources
+2022-11-26 09:04:56,316 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-email-client/src/test/java
+2022-11-26 09:04:56,422 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-11-26 09:04:56,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:56,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:56,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:04:56,908 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:04:56,909 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:04:56,909 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:04:56,909 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\Spring-email-client\src\test\resources
+2022-11-26 09:05:08,328 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.web:springmvcboot:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springmvcboot\pom.xml.
+2022-11-26 09:05:10,405 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcboot/src/main/java
+2022-11-26 09:05:10,406 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcboot/src/main/resources
+2022-11-26 09:05:10,406 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springmvcboot/src/main/resources
+2022-11-26 09:05:10,406 [Worker-15: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springmvcboot/src/test/java
+2022-11-26 09:05:10,543 [Worker-15: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-11-26 09:05:10,964 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:10,964 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:10,964 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:05:10,965 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:05:10,967 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:10,967 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:10,967 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springmvcboot\src\test\resources
+2022-11-26 09:05:24,642 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.valiadate:springvalidation:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springvalidation\pom.xml.
+2022-11-26 09:05:24,699 [Worker-17: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:05:24,917 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springvalidation/src/main/java
+2022-11-26 09:05:24,917 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springvalidation/src/main/resources
+2022-11-26 09:05:24,917 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springvalidation/src/main/resources
+2022-11-26 09:05:24,918 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springvalidation/src/test/java
+2022-11-26 09:05:25,070 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:05:25,817 [Worker-17: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:05:25,904 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:25,904 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:25,904 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:05:25,906 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2022-11-26 09:05:25,965 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:25,965 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:25,965 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springvalidation\src\test\resources
+2022-11-26 09:05:45,764 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:thymleafpractical:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\thymleafpractical\pom.xml.
+2022-11-26 09:05:45,974 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymleafpractical/src/main/java
+2022-11-26 09:05:45,974 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymleafpractical/src/main/resources
+2022-11-26 09:05:45,974 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thymleafpractical/src/main/resources
+2022-11-26 09:05:45,975 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thymleafpractical/src/test/java
+2022-11-26 09:05:46,104 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-26 09:05:46,638 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:46,638 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:46,638 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:05:46,641 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2022-11-26 09:05:46,767 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:05:46,767 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:05:46,767 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\thymleafpractical\src\test\resources
+2022-11-26 09:06:02,705 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tslp.dca:tslp-track4-springboot:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\tslp-track4-springboot\pom.xml.
+2022-11-26 09:06:04,556 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tslp-track4-springboot/src/main/java
+2022-11-26 09:06:04,556 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tslp-track4-springboot/src/main/resources
+2022-11-26 09:06:04,556 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tslp-track4-springboot/src/main/resources
+2022-11-26 09:06:04,557 [Worker-12: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tslp-track4-springboot/src/test/java
+2022-11-26 09:06:04,743 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-11-26 09:06:05,535 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:05,535 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:05,535 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:06:05,536 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-26 09:06:05,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:05,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:05,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\tslp-track4-springboot\src\test\resources
+2022-11-26 09:06:19,708 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:zpractice:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\zpractice\pom.xml.
+2022-11-26 09:06:23,551 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zpractice/src/main/java
+2022-11-26 09:06:23,551 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zpractice/src/main/resources
+2022-11-26 09:06:23,551 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /zpractice/src/main/resources
+2022-11-26 09:06:23,551 [Worker-17: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /zpractice/src/test/java
+2022-11-26 09:06:23,721 [Worker-17: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2022-11-26 09:06:24,530 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:24,530 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:24,530 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:06:24,531 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:24,533 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:24,533 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:24,533 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\zpractice\src\test\resources
+2022-11-26 09:06:40,010 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,010 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,038 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,038 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,039 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\Spring-email-client\src\test\resources
+2022-11-26 09:06:40,052 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,052 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,052 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,052 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,053 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,053 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,053 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\src\test\resources
+2022-11-26 09:06:40,258 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,258 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,259 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,259 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,261 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,261 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,261 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootdevtool\src\test\resources
+2022-11-26 09:06:40,522 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,522 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,522 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,522 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,524 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,524 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,524 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootjpaexample\src\test\resources
+2022-11-26 09:06:40,726 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,726 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,726 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,726 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:40,727 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,727 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:40,727 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootrestbook\src\test\resources
+2022-11-26 09:06:40,881 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,882 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\main\resources
+2022-11-26 09:06:40,883 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:40,883 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\test\resources
+2022-11-26 09:06:41,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,062 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,063 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,063 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,063 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\src\test\resources
+2022-11-26 09:06:41,223 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,223 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,223 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,223 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,225 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,225 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,225 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\firstproject\src\test\resources
+2022-11-26 09:06:41,495 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,500 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2022-11-26 09:06:41,500 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2022-11-26 09:06:41,505 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,505 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\test\resources
+2022-11-26 09:06:41,943 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,943 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,944 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,944 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:41,946 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:41,947 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:41,947 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2dataandschema\src\test\resources
+2022-11-26 09:06:42,277 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,277 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,277 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,277 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,280 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,280 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,280 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2database\src\test\resources
+2022-11-26 09:06:42,496 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,496 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,497 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,497 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\jwtauthentication\src\test\resources
+2022-11-26 09:06:42,676 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,678 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,678 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,678 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\myappvs\src\test\resources
+2022-11-26 09:06:42,892 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:06:42,972 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,972 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,972 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,972 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:42,974 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:42,974 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:42,974 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\smartcontactmanager\src\test\resources
+2022-11-26 09:06:43,193 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,193 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,194 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,194 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,195 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,196 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,196 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\spring-boot-security\src\test\resources
+2022-11-26 09:06:43,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,421 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,422 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,422 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,422 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootjpah2\src\test\resources
+2022-11-26 09:06:43,608 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,609 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,609 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,609 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,611 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,611 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,611 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootproject\src\test\resources
+2022-11-26 09:06:43,798 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,799 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,799 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,799 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,800 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,800 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,800 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springmvcboot\src\test\resources
+2022-11-26 09:06:43,895 [Worker-16: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:06:43,941 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,941 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,941 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,941 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:43,942 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:43,942 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:43,942 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springvalidation\src\test\resources
+2022-11-26 09:06:44,088 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,088 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,088 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,089 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,090 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,090 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,090 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\thymleafpractical\src\test\resources
+2022-11-26 09:06:44,302 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,302 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,302 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,302 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,303 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,303 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,304 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\tslp-track4-springboot\src\test\resources
+2022-11-26 09:06:44,595 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,595 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,596 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,596 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:06:44,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:06:44,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:06:44,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\zpractice\src\test\resources
+2022-11-26 09:07:07,644 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-26 09:07:07,878 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.email:emailapi:0.0.1-SNAPSHOT @ D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\pom.xml.
+2022-11-26 09:07:08,083 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emailapi/src/main/java
+2022-11-26 09:07:08,083 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /emailapi/src/main/resources
+2022-11-26 09:07:08,084 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /emailapi/src/main/resources
+2022-11-26 09:07:08,084 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /emailapi/src/test/java
+2022-11-26 09:07:08,490 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-11-26 09:07:09,090 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:07:09,090 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:07:09,091 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-26 09:07:09,092 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-26 09:07:09,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-26 09:07:09,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-11-26 09:07:09,094 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\src\test\resources
+2022-11-26 09:07:53,314 [ForkJoinPool.commonPool-worker-9] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:09:34,157 [ForkJoinPool.commonPool-worker-8] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:13:31,368 [ForkJoinPool.commonPool-worker-9] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:22:32,632 [ForkJoinPool.commonPool-worker-13] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:23:08,493 [ForkJoinPool.commonPool-worker-14] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:23:35,112 [ForkJoinPool.commonPool-worker-14] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:24:02,115 [ForkJoinPool.commonPool-worker-13] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:24:28,254 [ForkJoinPool.commonPool-worker-9] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:26:19,222 [ForkJoinPool.commonPool-worker-14] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:27:47,232 [ForkJoinPool.commonPool-worker-10] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:43:20,071 [ForkJoinPool.commonPool-worker-8] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:45:21,123 [ForkJoinPool.commonPool-worker-16] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:51:15,667 [ForkJoinPool.commonPool-worker-18] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:52:08,625 [ForkJoinPool.commonPool-worker-18] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:52:08,801 [Worker-33: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 09:54:13,745 [ForkJoinPool.commonPool-worker-14] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 09:59:51,789 [ForkJoinPool.commonPool-worker-14] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 10:00:27,958 [ForkJoinPool.commonPool-worker-17] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at jdk.internal.reflect.GeneratedConstructorAccessor214.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 10:04:57,175 [ForkJoinPool.commonPool-worker-17] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at jdk.internal.reflect.GeneratedConstructorAccessor214.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 10:04:58,210 [Worker-35: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2022-11-26 10:18:29,037 [ForkJoinPool.commonPool-worker-22] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at jdk.internal.reflect.GeneratedConstructorAccessor214.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-11-26 10:30:45,071 [ForkJoinPool.commonPool-worker-26] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at jdk.internal.reflect.GeneratedConstructorAccessor214.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2023-05-19 08:05:00,590 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-19 08:06:39,547 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:06:39,644 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:06:39,652 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-19 08:06:39,845 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-19 08:06:39,850 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:06:39,850 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:06:39,850 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\src\test\resources
+2023-05-19 08:06:59,468 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:06:59,468 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:06:59,468 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:06:59,519 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-19 08:06:59,522 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:06:59,523 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:06:59,523 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\jwtauthentication\src\test\resources
+2023-05-19 08:07:06,596 [Worker-1: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2023-05-19 08:07:06,896 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:06,896 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:06,897 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:07:07,006 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2023-05-19 08:07:07,508 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:07,508 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:07,508 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\smartcontactmanager\src\test\resources
+2023-05-19 08:07:08,107 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:08,108 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:08,108 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:07:08,121 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:07:08,123 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:08,123 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:08,123 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\spring-boot-security\src\test\resources
+2023-05-19 08:07:16,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:16,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:16,032 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:07:16,081 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-05-19 08:07:16,135 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:16,135 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:16,135 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\tslp-track4-springboot\src\test\resources
+2023-05-19 08:07:20,731 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:20,732 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:20,732 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-19 08:07:20,757 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-19 08:07:20,759 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-19 08:07:20,759 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-19 08:07:20,759 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\myappvs\src\test\resources
+2023-05-20 16:15:11,270 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-20 16:18:58,090 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-20 16:18:58,092 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-20 16:18:58,099 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-05-20 16:18:58,365 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-20 16:18:58,368 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-20 16:18:58,368 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-20 16:18:58,368 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\src\test\resources
+2023-05-23 07:33:04,948 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-03 11:24:20,105 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-03 11:50:21,222 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-04 19:22:22,285 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-09 14:50:44,016 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-11 11:48:44,644 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-14 13:04:29,149 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-14 13:04:30,138 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-11-14 13:06:47,844 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:06:47,844 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:06:47,847 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-11-14 13:06:47,932 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:06:47,934 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:06:47,935 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:06:47,935 [Worker-0: Launching blog-app-apis - BlogAppApisApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\blog-app-apis\src\test\resources
+2023-11-14 13:06:58,458 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:06:58,458 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:06:58,458 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:06:58,479 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:06:58,483 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:06:58,484 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:06:58,484 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\Spring-email-client\src\test\resources
+2023-11-14 13:07:08,163 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:08,163 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:08,163 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:08,191 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:08,194 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:08,194 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:08,194 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootdevtool\src\test\resources
+2023-11-14 13:07:10,670 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:10,670 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:10,671 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:10,677 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:10,679 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:10,679 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:10,679 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootjpaexample\src\test\resources
+2023-11-14 13:07:12,163 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:12,164 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:12,164 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:12,194 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:12,296 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:12,296 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:12,296 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\bootrestbook\src\test\resources
+2023-11-14 13:07:17,640 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:17,640 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\main\resources
+2023-11-14 13:07:17,642 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:17,642 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\email_api\src\test\resources
+2023-11-14 13:07:20,338 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:20,338 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:20,339 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:20,341 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:20,343 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:20,343 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:20,343 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\emailapi\src\test\resources
+2023-11-14 13:07:20,848 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:20,848 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:20,848 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:20,849 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:20,851 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:20,851 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:20,851 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\firstproject\src\test\resources
+2023-11-14 13:07:25,906 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:25,906 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2023-11-14 13:07:25,906 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\main\resources
+2023-11-14 13:07:25,908 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:25,908 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\frescoCourses\src\test\resources
+2023-11-14 13:07:37,102 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:37,102 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:37,102 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:37,138 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-11-14 13:07:37,213 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:37,214 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:37,214 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2dataandschema\src\test\resources
+2023-11-14 13:07:46,480 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:46,480 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:46,481 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:46,487 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:46,489 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:46,489 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:46,489 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\h2database\src\test\resources
+2023-11-14 13:07:49,927 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:49,927 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:49,927 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:50,175 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:50,176 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:50,177 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:50,177 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\jwtauthentication\src\test\resources
+2023-11-14 13:07:50,560 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:50,561 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:50,561 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:07:50,562 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:07:50,563 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:07:50,563 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:07:50,563 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\myappvs\src\test\resources
+2023-11-14 13:08:15,739 [Worker-6: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2023-11-14 13:08:25,427 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:08:25,427 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:08:25,427 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:08:26,325 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 23 resources
+2023-11-14 13:08:42,008 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:08:42,008 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:08:42,008 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\smartcontactmanager\src\test\resources
+2023-11-14 13:08:57,400 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:08:57,400 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:08:57,400 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:08:57,407 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:08:58,279 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:08:58,279 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:08:58,279 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\spring-boot-security\src\test\resources
+2023-11-14 13:09:02,690 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:02,690 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:02,690 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:03,162 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:03,392 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:03,392 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:03,392 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootjpah2\src\test\resources
+2023-11-14 13:09:04,775 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:04,775 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:04,775 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:04,776 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:09:04,778 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:04,778 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:04,778 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springbootproject\src\test\resources
+2023-11-14 13:09:08,873 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:08,873 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:08,874 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:08,879 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:09:08,882 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:08,882 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:08,882 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springmvcboot\src\test\resources
+2023-11-14 13:09:10,497 [Worker-3: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - The artifact org.hibernate:hibernate-validator:jar:6.1.5.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.5.Final
+2023-11-14 13:09:10,825 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:10,825 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:10,826 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:10,828 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2023-11-14 13:09:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:11,386 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\springvalidation\src\test\resources
+2023-11-14 13:09:13,265 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:13,265 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:13,265 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:13,373 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2023-11-14 13:09:14,071 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:14,071 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:14,072 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\thymleafpractical\src\test\resources
+2023-11-14 13:09:30,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:30,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:30,631 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:30,632 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-11-14 13:09:30,786 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:30,786 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:30,786 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\tslp-track4-springboot\src\test\resources
+2023-11-14 13:09:46,153 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:46,153 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:46,153 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-11-14 13:09:46,177 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-11-14 13:09:46,179 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-14 13:09:46,179 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-11-14 13:09:46,179 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\CDAC\JAVA\Spring boot By Durgesh\CodeAndProjects\zpractice\src\test\resources
+2023-11-14 19:08:47,196 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-14 19:08:51,878 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-11-14 19:29:05,696 [ForkJoinPool.commonPool-worker-8] ERROR o.e.m.e.l.MavenRuntimeClasspathProvider - Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+java.net.URISyntaxException: Illegal character in path at index 25: file:/D:/CDAC/JAVA/Spring boot By Durgesh/Software/sts-4.14.1.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.18.3.20220227-1319/jars/
+	at java.base/java.net.URI$Parser.fail(URI.java:2974)
+	at java.base/java.net.URI$Parser.checkChars(URI.java:3145)
+	at java.base/java.net.URI$Parser.parseHierarchical(URI.java:3227)
+	at java.base/java.net.URI$Parser.parse(URI.java:3175)
+	at java.base/java.net.URI.<init>(URI.java:623)
+	at java.base/java.net.URL.toURI(URL.java:1056)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.addJarsFromBundle(MavenRuntimeClasspathProvider.java:81)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:66)
+	at org.eclipse.m2e.editor.lemminx.MavenRuntimeClasspathProvider.get(MavenRuntimeClasspathProvider.java:1)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1850)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLExtensionRegistry.getXMLLSClassPathExtensions(XMLExtensionRegistry.java:81)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.getExtensionJarPaths(XMLLanguageServer.java:148)
+	at org.eclipse.wildwebdeveloper.xml.internal.XMLLanguageServer.<init>(XMLLanguageServer.java:83)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:204)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:920)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.lsp4e.LanguageServersRegistry$ExtensionLanguageServerDefinition.createConnectionProvider(LanguageServersRegistry.java:147)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:222)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
